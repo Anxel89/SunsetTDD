@@ -1,0 +1,13 @@
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Library.Test\bin\Debug\Sunset.Library.Test.dll
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Library.Test\bin\Debug\Sunset.Library.Test.pdb
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Library.Test\bin\Debug\nunit.framework.dll
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Library.Test\bin\Debug\Sunset.Library.dll
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Library.Test\bin\Debug\Sunset.Library.pdb
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Library.Test\bin\Debug\nunit.framework.xml
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Library.Test\obj\Debug\Sunset.Library.Test.csprojResolveAssemblyReference.cache
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Library.Test\obj\Debug\Sunset.Library.Test.dll
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Library.Test\obj\Debug\Sunset.Library.Test.pdb
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Library.Test\bin\Debug\Sunset.Interface.dll
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Library.Test\bin\Debug\Sunset.Interface.pdb
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Library.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Library.Test\bin\Debug\Newtonsoft.Json.xml

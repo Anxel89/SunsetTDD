@@ -1,0 +1,15 @@
+OK
+http://localhost:8973/api/SolarCalculator?lat=33.8361&lng=-117.8897&date=2016-09-22
+
+http://localhost:8973/api/SolarCalculator/33.8361/-117.8897/2016-09-22
+
+http://localhost:8973/api/SolarCalculator/33.6624/-117.7470/2016-09-22
+
+ERROR
+http://localhost:8973/api/SolarCalculator?lat=33.8361&lng=-720.8897&date=2016-09-22
+
+Anaheim
+33.8361,-117.8897
+
+Irvine
+33.6624,-117.7470

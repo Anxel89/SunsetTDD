@@ -1,0 +1,5 @@
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Interface\bin\Debug\Sunset.Interface.dll
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Interface\bin\Debug\Sunset.Interface.pdb
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Interface\obj\Debug\Sunset.Interface.csprojResolveAssemblyReference.cache
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Interface\obj\Debug\Sunset.Interface.dll
+C:\Users\anxel\Downloads\RealWorldTDD\Starter\SunsetTDD\Sunset.Interface\obj\Debug\Sunset.Interface.pdb
